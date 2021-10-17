@@ -1,0 +1,7 @@
+C:\Users\62877\Documents\KULIAH BANGSAT\SEM 5\Pengembangan Aplikasi Terdistribusi\INS2020\ServiceMtk-P1-20190140077\bin\Debug\ServiceMtk-P1-20190140077.dll.config
+C:\Users\62877\Documents\KULIAH BANGSAT\SEM 5\Pengembangan Aplikasi Terdistribusi\INS2020\ServiceMtk-P1-20190140077\bin\Debug\ServiceMtk-P1-20190140077.dll
+C:\Users\62877\Documents\KULIAH BANGSAT\SEM 5\Pengembangan Aplikasi Terdistribusi\INS2020\ServiceMtk-P1-20190140077\bin\Debug\ServiceMtk-P1-20190140077.pdb
+C:\Users\62877\Documents\KULIAH BANGSAT\SEM 5\Pengembangan Aplikasi Terdistribusi\INS2020\ServiceMtk-P1-20190140077\obj\Debug\ServiceMtk-P1-20190140077.csproj.AssemblyReference.cache
+C:\Users\62877\Documents\KULIAH BANGSAT\SEM 5\Pengembangan Aplikasi Terdistribusi\INS2020\ServiceMtk-P1-20190140077\obj\Debug\ServiceMtk-P1-20190140077.csproj.CoreCompileInputs.cache
+C:\Users\62877\Documents\KULIAH BANGSAT\SEM 5\Pengembangan Aplikasi Terdistribusi\INS2020\ServiceMtk-P1-20190140077\obj\Debug\ServiceMtk-P1-20190140077.dll
+C:\Users\62877\Documents\KULIAH BANGSAT\SEM 5\Pengembangan Aplikasi Terdistribusi\INS2020\ServiceMtk-P1-20190140077\obj\Debug\ServiceMtk-P1-20190140077.pdb
